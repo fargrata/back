@@ -127,8 +127,6 @@ CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=8662
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 港澳台频道,#genre#
-凤凰卫视,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
-凤凰香港,http://60.164.128.167:8029/rtp/239.255.30.123:8231#http://zjrtv.vip/live/?tbs=fhxg
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路9』#http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
 TVB翡翠台,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct#http://122.152.202.33/s/81a8a44f/index.m3u8?id=53#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
