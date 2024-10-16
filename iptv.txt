@@ -224,10 +224,6 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 晴彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 晴彩青少,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-晴采竞技,http://tvbox6.icu/tv/zb/bjcucc.php?id=48
-晴采篮球,http://tvbox6.icu/tv/zb/bjcucc.php?id=49
-晴采羽毛球,http://tvbox6.icu/tv/zb/bjcucc.php?id=50
-晴采广场舞,http://tvbox6.icu/tv/zb/bjcucc.php?id=51
 山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 生活时尚,http://115.150.63.77:9902/tsfile/live/0001_45.m3u8
 武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
